@@ -14,11 +14,11 @@ If you are in the workshop, then you know it is due to last much of the day, Tue
 | ------- |-------|
 |  9:00 | **What is Culture Analytics?**  A talk designed to give a quick definition of the domain as we understand it and to highlight recent research by various individuals, many of whom are involved already with the group. *John Laudun*. |
 |  9:30 | Discussion |
-| 10:00 | Morning Break.   |
+| 10:00 | Morning Break  |
 | 10:15 |  **Measuring and Presenting time series of Astrophotography in Science, Public Discourse and (Virtual) Museums Exhibitions**.  Ekaterina Lapina-Kratasyuk & Leon Gurevitch. |
 | 10:30 | **Large Images Dataset over Time with PixPlot**. Peter Leonard. |
 | 10:45 |  **Time Series** Clarisse Bardiot and Mila Oiva.  |
-| 11:00 | **Automated Movement and Choreography Analysis of Video Data via Deep Learning Pose Detection**. *Peter Broadwell* (Stanford University).
+| 11:00 | **Automated Movement and Choreography Analysis of Video Data via Deep Learning Pose Detection**. This tutorial will explore the possibilities for pose and movement analysis available via deep learning-based tools for pose extraction from video. Participants will have the opportunity to experiment with computational approaches to characterizing and comparing extracted poses using online Python notebooks. *Peter Broadwell*. |
 | 12:00 | Lunch |
 | 13:00 | **Classical Methods in Time Series Analysis with R** Methods of classical time series analysis will be presented:  ARMA, Hidden Markov Models (HMM), curve fitting, and recurrent neural networks (RNN). The focus will be on understanding how these methods differ and seeing various applications to cultural analytics. Participants are encouraged to follow-along with the analysis using the open source programming language R.  *Taylor Arnold*. |
 | 14:15 | Afternoon Break  |
@@ -27,7 +27,7 @@ If you are in the workshop, then you know it is due to last much of the day, Tue
 
 ## Affiliations
 
-**Arnold**: University of Richmond /  • 
+**Arnold**: University of Richmond • 
 **Bardiot**: Université de Valenciennes • 
 **Broadwell**: Stanford University • 
 **Gurevitch**: Victoria University of Wellington • 
